@@ -7,6 +7,10 @@ Introduction to Github and Xcode for non-engineers
 - [Enable two factor auth](Enable https://github.com/blog/1614-two-factor-authentication)
 - Have the owner of a repository allow you to view the repository
 
+## Create an Apple ID for Development
+
+- Have an Apple developer add you as a member of their account
+
 ## Setup Xcode
 
 - Download Xcode from the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
