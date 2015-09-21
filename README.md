@@ -13,7 +13,9 @@ Introduction to Github and Xcode for non-engineers
 
 ## Setup Xcode
 
-- Download Xcode from the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
+- Download Xcode
+    - the latest from the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12), or
+    - an older version from the [Apple developer resources](https://developer.apple.com/downloads/). Here's [Xcode 6.4](http://adcdownload.apple.com/Developer_Tools/Xcode_6.4/Xcode_6.4.dmg).
 - Run Xcode
 
 ## Grab the code
